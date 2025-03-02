@@ -5,7 +5,7 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/otterai/count.svg" />
 </p>
 
-<h1>ʜɪ ! ɪᴛ's ᴍᴇ Hamza <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28"></h1>
+
 
 
     

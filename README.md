@@ -1,11 +1,26 @@
-## Activities
-<img align="left" width="480" alt="metrics" src="/github-metrics.svg">
-<img align="right" alt="count" src="https://count.getloli.com/get/@:aliaryantech?theme=rule34">
+<a href="https://github.com/otterai"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+my+self+Hamza+;From+Uttar+Pradesh%2C+India;Bot/Web+Dev!;Telegram%3A+%40PythonBotz" alt="https://t.me/PythonBotz" /></a>
 
-## Contact me
-<a href="https://wa.me/+923224875937?text=Hi,%20I'm%20from%20Github">
-  <img src="./whatsapp.svg" alt="WhatsApp Icon" width="48" height="48">
-</a>
+<p align="center">
+    <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/otterai/count.svg" />
+</p>
 
-## Stats
-![Alι Aryαɴ github stats](https://github-readme-stats.vercel.app/api?username=aliaryantech&show_icons=true&include_all_commits=true&count_private=true&line_height=28) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliaryantech&layout=compact&langs_count=12)
+<h1>ʜɪ ! ɪᴛ's ᴍᴇ Hamza <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28"></h1>
+
+
+    
+    
+<h2>ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
+
+<p align="center">
+<a href="https://telegram.me/metaui"><img src="https://img.shields.io/badge/-Contact%20Me-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
+</p>
+<p align="center">
+<a href="https://telegram.me/Pythonbotz"><img src="https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
+</p>
+
+<h1> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
+
+[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Subaru Spotify" width="75%" />](https://open.spotify.com/user/3147zqots32jqlmaenz5atdkxuem)
+
+[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/otterai/)

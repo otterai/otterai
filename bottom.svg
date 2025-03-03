@@ -37,26 +37,25 @@
   <text x="90" y="230" class="text small-text">Comedy, Drama, Fantasy</text>
   <text x="90" y="250" class="text small-text">Episode 0</text>
 
-  <image x="20" y="270" width="60" height="60" href="https://storage.googleapis.com/a1aa/image/pUjNj-B-ms0Zj2S0M2R71AsGRNDFPYWuqaImd9ez9Og.jpg" />
-  <text x="90" y="290" class="text small-text">Shingeki no Kyojin</text>
-  <text x="90" y="310" class="text small-text">Anime</text>
-  <text x="90" y="330" class="text small-text">2013</text>
-  <text x="90" y="350" class="text small-text">Action, Drama, Fantasy, Mystery</text>
-  <text x="90" y="370" class="text small-text">Episode 0/25</text>
+  <image x="300" y="150" width="60" height="60" href="https://storage.googleapis.com/a1aa/image/pUjNj-B-ms0Zj2S0M2R71AsGRNDFPYWuqaImd9ez9Og.jpg" />
+  <text x="370" y="170" class="text small-text">Shingeki no Kyojin</text>
+  <text x="370" y="190" class="text small-text">Anime</text>
+  <text x="370" y="210" class="text small-text">2013</text>
+  <text x="370" y="230" class="text small-text">Action, Drama, Fantasy, Mystery</text>
+  <text x="370" y="250" class="text small-text">Episode 0/25</text>
 
-  <text x="20" y="410" class="text subtitle">Favorites animes</text>
-  <image x="20" y="430" width="60" height="60" href="https://storage.googleapis.com/a1aa/image/7j3CEc4jh_24xKoOKz0HCBe2Efq86eqhT-E0-qCcTyQ.jpg" />
-  <text x="90" y="450" class="text small-text">Enen no Shouboutai</text>
-  <text x="90" y="470" class="text small-text">Anime</text>
-  <text x="90" y="490" class="text small-text">2019</text>
-  <text x="90" y="510" class="text small-text">Action, Drama, Sci-Fi, Supernatural</text>
-  <text x="90" y="530" class="text small-text">Episode 0</text>
+  <text x="20" y="290" class="text subtitle">Favorites animes</text>
+  <image x="20" y="310" width="60" height="60" href="https://storage.googleapis.com/a1aa/image/7j3CEc4jh_24xKoOKz0HCBe2Efq86eqhT-E0-qCcTyQ.jpg" />
+  <text x="90" y="330" class="text small-text">Enen no Shouboutai</text>
+  <text x="90" y="350" class="text small-text">Anime</text>
+  <text x="90" y="370" class="text small-text">2019</text>
+  <text x="90" y="390" class="text small-text">Action, Drama, Sci-Fi, Supernatural</text>
+  <text x="90" y="410" class="text small-text">Episode 0</text>
 
-  <image x="20" y="550" width="60" height="60" href="https://storage.googleapis.com/a1aa/image/a8clndt5pZDOycbjo1DE1uAcLmbeeP2vGe2g8Xj-6pE.jpg" />
-  <text x="90" y="570" class="text small-text">Yojouhan Shinwa Taikei</text>
-  <text x="90" y="590" class="text small-text">Anime</text>
-  <text x="90" y="610" class="text small-text">2010</text>
-  <text x="90" y="630" class="text small-text">Comedy, Mystery, Psychological, Romance</text>
-  <text x="90" y="650" class="text small-text">Episode 0</text>
+  <image x="300" y="310" width="60" height="60" href="https://storage.googleapis.com/a1aa/image/a8clndt5pZDOycbjo1DE1uAcLmbeeP2vGe2g8Xj-6pE.jpg" />
+  <text x="370" y="330" class="text small-text">Yojouhan Shinwa Taikei</text>
+  <text x="370" y="350" class="text small-text">Anime</text>
+  <text x="370" y="370" class="text small-text">2010</text>
+  <text x="370" y="390" class="text small-text">Comedy, Mystery, Psychological, Romance</text>
+  <text x="370" y="410" class="text small-text">Episode 0</text>
 </svg>
- 

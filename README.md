@@ -2,14 +2,10 @@
 
 <p align="center">
     <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/otterai/count.svg" />
-</p>
-
-
-
-
+<img align="middle" alt="count" src="https://count.getloli.com/get/@:otterai?theme=rule34">
     
-<img align="right" alt="count" src="https://count.getloli.com/get/@:otterai?theme=rule34">
+
+
 
     
 <h2>ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>

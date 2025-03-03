@@ -9,6 +9,8 @@
 
 
     
+<img align="right" alt="count" src="https://count.getloli.com/get/@:otterai?theme=rule34">
+
     
 <h2>ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
 

@@ -26,11 +26,5 @@
 | <a href="https://github.com/otterai/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=otterai&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <img align="center" alt="count" src=https://github.com/otterai/otterai/blob/main/asuka.gif>
 | ------------- | ------------- |
 
-<table>
-<tr>
-<td><img align="" width="" alt="🦑" src="/bottom.svg"></td>
-<td><img align="" width="" alt="🦑" src="/asuka.gif"></td>
-</tr>
-</table>
 
  

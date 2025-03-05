@@ -23,7 +23,7 @@
 
 [<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/otterai/)
 
-| <img align="center" src="https://github-stats-alpha.vercel.app/api/?username=otterai&cc=000&tc=00ff00&ic=fff000&bc=fff" alt="otterai's github stats" /></a> | <img align="center" alt="count" src=https://github.com/otterai/otterai/blob/main/asuka.gif>
+| <img align="center" src="https://github-stats-alpha.vercel.app/api/?username=otterai&cc=000&tc=00ff00&ic=fff000&bc=fff" alt="otterai's github stats" /></a> | <img align="center" alt="count" src=https://github.com/otterai/otterai/blob/main/GIF/pinterestdownloader.com-1741206996.729839.gif>
 | ------------- | ------------- |
 
 

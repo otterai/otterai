@@ -4,7 +4,8 @@
     <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
 <img align="middle" alt="count" src="https://count.getloli.com/get/@:otterai?theme=rule34">
     
-
+> [!CAUTION]
+> _Life is like an **anime—full** of plot twists, power-ups, and late-night debugging!_
 
 
     

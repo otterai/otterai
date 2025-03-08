@@ -8,6 +8,9 @@
 > _```Life is like an anime—full of plot twists, power-ups, and late-night debugging!```_
 
 
+![snake gif](https://github.com/ifeelscam/ifeelscam/blob/output/github-snake-dark.svg)
+
+
     
 <h2>ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
 

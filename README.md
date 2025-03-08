@@ -8,10 +8,7 @@
 > _```Life is like an anime—full of plot twists, power-ups, and late-night debugging!```_
 
 
-![snake gif](https://github.com/ifeelscam/ifeelscam/blob/output/github-snake-dark.svg)
-
-
-    
+ 
 <h2>ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
 
 <p align="center">
@@ -30,5 +27,8 @@
 | <img align="center" src="https://github-stats-alpha.vercel.app/api/?username=otterai&cc=000&tc=00ff00&ic=fff000&bc=fff" alt="otterai's github stats" /></a> | <img align="center" alt="count" src=https://github.com/otterai/otterai/blob/main/GIF/pinterestdownloader.com-1741206996.729839.gif>
 | ------------- | ------------- |
 
+![snake gif](https://github.com/ifeelscam/ifeelscam/blob/output/github-snake-dark.svg)
 
+
+   
  

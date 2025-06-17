@@ -8,40 +8,6 @@
 > _```Life is like an anime—full of plot twists, power-ups, and late-night debugging!```_
 
 
-## <div align="center" color="purple">Since I love React, here's a glimpse of me in jsx <img src="https://media1.giphy.com/avatars/Care-Kita-App/akADEkX6AvR3.gif" alt="tux" height="45" width="40"></div>
-
-<!-- Gif options -->
-<!-- <img src="https://media2.giphy.com/media/l2FSi4zPU5dnLyd7Q4/giphy.gif">
-<img src="https://i.pinimg.com/originals/ca/4f/49/ca4f49a7106355f3731a1fb5a6a6864b.gif">
-<img src="https://media1.giphy.com/avatars/Care-Kita-App/akADEkX6AvR3.gif"> -->
-
-```jsx
-import React from "react";
-
-const Ben 10 = () => {
-  const aboutMe = {
-    realName: "Hamza",
-    pronouns: "Bot | Nub ",
-    organization: "PythonBotz' Group",
-    interests: ["Open Source", "Python", "Web Dev"],
-    myBelief:
-      "If you want to go fast, go alone. If you want to go far, go together.",
-  };
-
-  return (
-    <div>
-      <h2>Hello there! I am {aboutMe.realName}.</h2>
-      <p>My pronouns are {aboutMe.pronouns}</p>
-      <p>I work for {aboutMe.organization}</p>
-      <p>My interest lies in: {aboutMe.askMeAbout.join(", ")}</p>
-      <p>I live by {aboutMe.myBelief}</p>
-    </div>
-  );
-};
-
-export default Ben 10;
-```
-
  
 <h2>ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
 

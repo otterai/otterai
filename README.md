@@ -9,7 +9,8 @@
 
 
  
-<h2>ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
+<h2><img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/analytics.webp" width="35px"> 
+ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
 
 <p align="center">
 <a href="https://telegram.me/metaui"><img src="https://img.shields.io/badge/-Contact%20Me-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
